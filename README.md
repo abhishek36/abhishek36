@@ -7,14 +7,12 @@ Feel free to reach out at oneabhi14@gmail.com
 
 You can also consider adding more professional elements, such as:
 
-💼 Portfolio & Links
-🔗 My Portfolio Website https://is-myportfolio.netlify.app/
+💼 Portfolio
+🔗 https://is-myportfolio.netlify.app/
 
 🛠️ Skills
 HTML5 / CSS3 / JavaScript
 
 Responsive Design & UI/UX
-
-Adobe XD / Figma / Photoshop
 
 Bootstrap / Tailwind CSS
